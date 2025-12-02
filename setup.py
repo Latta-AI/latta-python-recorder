@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="latta-python-recorder",
-    version="0.0.2",
+    version="0.0.3",
     description="Latta AI Vanilla Python Recorder",
     long_description=long_description,
     long_description_content_type="text/markdown",
