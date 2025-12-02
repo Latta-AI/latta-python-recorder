@@ -11,7 +11,7 @@ pip install latta-python-recorder
 
 ```py
 
-from latta import Latta
+from latta_python_recorder import Latta
 
 latta = Latta('api-key')
 
